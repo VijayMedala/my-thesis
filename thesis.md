@@ -1,11 +1,10 @@
-# Towards prediction of antibiotic Mode of Action using high-throughput imaging and AI
+# Towards prediction of antibiotic Mode of Action using high-throughput imaging and AI or  Hepatitis B Virus Capsids
 Felix Knote (AG Zimmer, RVZ Würzburg)
 
 ## Abstract
 
-## Abstract
-
 ## Introduction
+Once upon a time, dinosaurs walked this Earth. It is said that they due were already infected by the omnipresent HBV. Truly incredible!
 - Blood brain barrier formation relies on WNT7...most likely....i am not allowed to say too much here
 Hier ist der Text der Einleitung
 Very boring but important
@@ -59,6 +58,7 @@ The experiment will have partly really good results but also partly some results
 
 ## Conclusion
 I did a great job!
+I literally analyzed every single HBV capsid! Crown me, don't clown me!
 
 ## References
 
@@ -67,4 +67,3 @@ We need some additional data here.
 
 ## Acknowledgments
 Thanks for the cake
-
