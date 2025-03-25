@@ -1,4 +1,4 @@
-# My glorious thesis on software carpentryology!
+# Generic Title
 
 ## Introduction
 
