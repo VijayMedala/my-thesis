@@ -8,6 +8,7 @@
 - and everything
 
 ## Theory
+Why theory? Isn't basic math enough?
 
 ## Experiment
 
