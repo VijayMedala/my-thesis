@@ -4,6 +4,7 @@ Felix Knote (AG Zimmer, RVZ Würzburg)
 ## Abstract
 
 ## Introduction
+This is an introduction to a thesis I am not writing and I would like to finish soon.
 Once upon a time, dinosaurs walked this Earth. It is said that they due were already infected by the omnipresent HBV. Truly incredible!
 - Blood brain barrier formation relies on WNT7...most likely....i am not allowed to say too much here
 Hier ist der Text der Einleitung
@@ -38,6 +39,7 @@ This is the glorious introduction of my thesis which will blow your mind.
 
 ## Theory
 - Take a look at the WNT7 receptors they gotta do something 
+No theory
 
 Die Theorie von RL macht Spaß!
 
@@ -67,4 +69,3 @@ We need some additional data here.
 
 ## Acknowledgments
 Thanks for the cake
-
