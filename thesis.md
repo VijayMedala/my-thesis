@@ -1,4 +1,4 @@
-# Thesis Title
+# My glorious thesis on software carpentryology!
 
 ## Introduction
 
