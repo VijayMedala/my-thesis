@@ -37,12 +37,17 @@ test2
 
 This is the glorious introduction of my thesis which will blow your mind.
 
+- Here I will outline the field of software carpentreology
+- My relation to the world
+- the universe
+- and everything
+
 ## Theory
+Why theory? Isn't basic math enough?
 - Take a look at the WNT7 receptors they gotta do something 
 No theory
 
 Die Theorie von RL macht Spaß!
-
 The very complicated theory is hard to understand but I manage to break it down such that it will be easy to understand.
 
 ## Experiment
@@ -67,5 +72,8 @@ I literally analyzed every single HBV capsid! Crown me, don't clown me!
 ## Appendix
 We need some additional data here.
 
+## Appendix
+
 ## Acknowledgments
+I thank everyone.
 Thanks for the cake
